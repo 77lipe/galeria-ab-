@@ -1,4 +1,4 @@
-# Landing page - Let's Go, Pikachu
+# Landing page - Galeria do Ney
 
 ![](./screenshots/preview.png)
 
